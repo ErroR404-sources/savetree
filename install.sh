@@ -154,8 +154,8 @@ if [ ! -e "server.jar" ] && [ ! -e "nodejs" ] && [ ! -e "PocketMine-MP.phar" ]; 
 sleep 5
 echo "
   $(tput setaf 3)Which platform are you gonna use?
-  1) Paper             2) Purpur
-  3) BungeeCord        4) PocketmineMP
+  1) PaperPro             2) PurpurPro
+  3) BungeeCordPro       4) PocketmineMPPro
   "
 read -r n
 
