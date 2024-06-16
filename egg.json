@@ -45,7 +45,7 @@
             "name": "Minecraft Version",
             "description": "The version of minecraft to download. Leave at latest to always get the latest version. Invalid versions will default to latest.",
             "env_variable": "MINECRAFT_VERSION",
-            "default_value": "latest",
+            "default_value": "1.20.1",
             "user_viewable": true,
             "user_editable": true,
             "rules": "nullable|string|max:20",
