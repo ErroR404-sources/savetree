@@ -4,7 +4,7 @@ display() {
     echo -e "\033c"
     echo "
     ==========================================================================
-$(tput setaf 6) ⠀⠀FORKED FROM KLOVITEGG https://github.com/ErroR404-source
+$(tput setaf 6) ⠀⠀SaveTreeEgg https://github.com/ErroR404-source
 $(tput setaf 6) ⠀⠀⠀⠀⠀          ⠀      ⠀⠻⣷⣄
 $(tput setaf 6)⠀⠀⠀           ⠀  ⢀⣴⣿⣿⣿⡿⠋ ⠀⠹⣿⣦⡀
 $(tput setaf 6)⠀⠀            ⢀⣴⣿⣿⣿⣿⣏⠀⠀⠀⠀ ⠀⠀⢹⣿⣧
