@@ -4,23 +4,27 @@ display() {
     echo -e "\033c"
     echo "
     ==========================================================================
-$(tput setaf 6) ⠀⠀FORKED FROM SaveTree https://github.com/ErroR404-sources/savetree/edit/main/install.sh
+$(tput setaf 6) ⠀⠀FORKED FROM SaveTree https://github.com/ErroR404-sources/savetree/
 $(tput setaf 6) ⠀⠀⠀⠀⠀          ⠀      
-$(tput setaf 6)⠀⠀⠀           ⠀  ⢀⣴⣿⣿⣿⡿⠋⠀⠹⣿⣦⡀
-$(tput setaf 6)⠀⠀            ⢀⣴⣿⣿⣿⣿⣏⠀⠀⠀⠀⠀⠀⢹⣿⣧
-$(tput setaf 6)⠀             ⠙⢿⣿⡿⠋⠻⣿⣿⣦⡀⠀⠀⠀⢸⣿⣿⡆
-$(tput setaf 6)⠀                      ⣿⣿⣦
-$(tput setaf 6)⠀⠀⠀⠀            ⢀  ⠀⠈⠻⣿⣿⣶⣿⣿⣿⠁
-$(tput setaf 6)⠀⠀⠀                 ⣿⣶⣶⣶⣶⣾⣿⣿⣿⣿⡁
-$(tput setaf 6)                  ⠀⠀⠉⠛⠿⠿⠿⠿⠿⠛⠻⣿⣿⣦⡀
+$(tput setaf 6)⠀⠀⠀           ⠀       ●●●●  
+$(tput setaf 6)⠀                  ●         ●    
+$(tput setaf 6)⠀                  ●         ●
+$(tput setaf 6)⠀                   ●       ● 
+$(tput setaf 6)⠀                      ●●●●  
+$(tput setaf 6)⠀⠀                           ●
+$(tput setaf 6)⠀             
+$(tput setaf 6)⠀                  
+$(tput setaf 6)⠀⠀⠀⠀            
+$(tput setaf 6)⠀⠀⠀               
+$(tput setaf 6)           
 $(tput setaf 6)               
 $(tput setaf 6)  
 $(tput setaf 6)     
-$(tput setaf 6)   ☭ Народная армия непобедима!
+$(tput setaf 6)   ☭ This Egg Made By 404ErroR
 $(tput setaf 6)  
 $(tput setaf 6)   
 $(tput setaf 6)    
-$(tput setaf 6) COPYRIGHT 2024 Quantumhost.xyz Technology (https://Quantuhost.xyz)
+$(tput setaf 6) COPYRIGHT 2024 Quantumhost.xyz  (https://Quantuhost.xyz)
 
     ==========================================================================
     "  
